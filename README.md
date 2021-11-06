@@ -2,7 +2,7 @@
 
 ```js
 async function legend() {
-  const Jacksxn = require('200iq.js');
+  const Jacksxn = require('-50iq.js');
   const chalk = require('chalk');
 
   let doing = ['Sleeping', 'Eating', 'Coding', 'Doing Your Mom'];
